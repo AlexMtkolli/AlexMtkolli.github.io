@@ -1,0 +1,170 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(188, 255, 100);
+}
+
+header {
+    background-color: rgb(11, 90, 11);
+    color: rgb(40, 255, 51);
+    text-align: center;
+    padding: 8px;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    vertical-align: top;
+}
+
+li {
+    margin-bottom: 7px;
+}
+
+#blog_p { text-align: left;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    font-size: 16px;}
+
+#footnote { text-align: center;
+            word-spacing: 8px;
+        }
+
+#footnote_head {
+    background-color: rgb(84, 179, 89);
+}
+
+td {
+    padding: 8px;
+    background-color: rgb(99, 199, 104);
+    
+  }
+  
+  th { padding: 8px;
+    background-color: rgb(30, 148, 15);
+    
+
+  }
+
+#Middle_cell {
+    background-color:  rgb(84, 179, 89);
+} 
+  
+#side-bar {
+    background-color: rgb(126, 207, 33);
+    color: #fff;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+main {
+    margin: 20px;
+}
+
+#content {
+    float: left;
+    width: 70%;
+}
+
+#form {
+    float: right;
+    width: 30%;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    clear: both;
+}
+
+form {
+    padding: 10px;
+    border-radius: 5px;
+}
+
+form label, form input, form textarea {
+    display: block;
+    margin: 10px 0;
+}
+
+form input, form textarea {
+    width: 95%;
+    padding: 5px;
+}
+
+img {
+    max-width: 50%;
+    justify-content: center;
+    border: 2px solid #000;
+}
+
+/* table {
+    border-collapse: collapse;
+  } */
+
+  table {
+    border-collapse: collapse;
+  }
+
+  a {
+    color: #9e001a; 
+  }
+
+  a:visited {
+    color: #4b0019; 
+  }
+
+  #footer {
+    background-color: #582219;
+  }
+
+  #footer_p {
+    color:rgb(255, 255, 255)
+  }
+
+  a:hover {
+    color: #b4001e; 
+  }
+
+#Articles_Main {
+    background-color: rgb(199, 255, 197);
+}
+
+#Articles_Title {
+    background-color: rgb(150, 184, 149);
+}
+
+label {
+    text-align: left;
+}
+
+form {
+    text-align: center;
+}
+
+.radio-group {
+    display: flex;
+    align-items: center;
+  }
+
+#Form_Main {
+    background-color: rgb(152, 196, 72);
+}
+
+#revision {
+    text-align: right;
+}
